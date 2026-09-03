@@ -1,0 +1,27 @@
+= shared fate cube =
+
+imagine truly sharing the same fate as your opponent
+
+in this cooperative morph of mtg, you and your opponent share one life total,
+and start the game with a copy of shared fate in play.
+
+challenges
+
+* how to encourage good/interesting deck-building?
+  * what stops players from drafting creatureless/wincon-less decks?
+  * what stops players from building no-/all-land decks?
+  * what encourages players to draft good/interesting decks?
+
+to encourage good faith deckbuilding, make >50% of a match favoured by it.
+for example,
+
+> game 2 is played with swapped decks
+
+what is something worth healing in magic?
+
+* secret-keeping, hidden info beyond the bounds of the game. obscuring ur skill level, card evaluation, meta evaluation, etc.
+* leveraging your game knowledge against your opponent instead of teaching
+
+what is something worth preserving in magic?
+
+* building a synergy masterpiece and demoing it in-game!

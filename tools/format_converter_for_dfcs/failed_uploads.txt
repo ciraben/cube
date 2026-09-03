@@ -1,0 +1,61 @@
+Aetherblade Agent // Gitaxian Mindstinger
+Ayara, Widow of the Realm // Ayara, Furnace Queen
+Blightreaper Thallid // Blightsower Thallid
+Bonded Herdbeast // Plated Kilnbeast
+Captive Weird // Compleated Conjurer
+Elesh Norn // The Argent Etchings
+Etali, Primal Conqueror // Etali, Primal Sickness
+Gnottvold Hermit // Chrome Host Hulk
+Harried Artisan // Phyrexian Skyflayer
+Heliod, the Radiant Dawn // Heliod, the Warped Eclipse
+Herbology Instructor // Malady Invoker
+Invasion of Alara // Awaken the Maelstrom
+Invasion of Amonkhet // Lazotep Convert
+Invasion of Arcavios // Invocation of the Founders
+Invasion of Azgol // Ashen Reaper
+Invasion of Belenon // Belenon War Anthem
+Invasion of Dominaria // Serra Faithkeeper
+Invasion of Eldraine // Prickle Faeries
+Invasion of Ergamon // Truga Cliffcharger
+Invasion of Fiora // Marchesa, Resolute Monarch
+Invasion of Gobakhan // Lightshield Array
+Invasion of Ikoria // Zilortha, Apex of Ikoria
+Invasion of Innistrad // Deluge of the Dead
+Invasion of Ixalan // Belligerent Regisaur
+Invasion of Kaladesh // Aetherwing, Golden-Scale Flagship
+Invasion of Kaldheim // Pyre of the World Tree
+Invasion of Kamigawa // Rooftop Saboteurs
+Invasion of Karsus // Refraction Elemental
+Invasion of Kylem // Valor's Reach Tag Team
+Invasion of Lorwyn // Winnowing Forces
+Invasion of Mercadia // Kyren Flamewright
+Invasion of Moag // Bloomwielder Dryads
+Invasion of Muraganda // Primordial Plasm
+Invasion of New Capenna // Holy Frazzle-Cannon
+Invasion of New Phyrexia // Teferi Akosa of Zhalfir
+Invasion of Pyrulea // Gargantuan Slabhorn
+Invasion of Ravnica // Guildpact Paragon
+Invasion of Regatha // Disciples of the Inferno
+Invasion of Segovia // Caetus, Sea Tyrant of Segovia
+Invasion of Shandalar // Leyline Surge
+Invasion of Tarkir // Defiant Thundermaw
+Invasion of Theros // Ephara, Ever-Sheltering
+Invasion of Tolvada // The Broken Sky
+Invasion of Ulgrotha // Grandmother Ravi Sengir
+Invasion of Vryn // Overloaded Mage-Ring
+Invasion of Xerex // Vertex Paladin
+Invasion of Zendikar // Awakened Skyclave
+Jin-Gitaxias // The Great Synthesis
+Khenra Spellspear // Gitaxian Spellstalker
+Nezumi Freewheeler // Hideous Fleshwheeler
+Order of the Mirror // Order of the Alabaster Host
+Polukranos Reborn // Polukranos, Engine of Ruin
+Pyretic Prankster // Glistening Goremonger
+Rona, Herald of Invasion // Rona, Tolarian Obliterator
+Seraph of New Capenna // Seraph of New Phyrexia
+Sheoldred // The True Scriptures
+Skyclave Aerialist // Skyclave Invader
+Sun-Blessed Guardian // Furnace-Blessed Conqueror
+Tarkir Duneshaper // Burnished Dunestomper
+Urabrask // The Great Work
+Vorinclex // The Grand Evolution

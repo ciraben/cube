@@ -1,0 +1,84 @@
+this is for all you avid thinkers, wide board lovers, control hum-and-haw-ers, end-the-game-on-turn-12-ers - we love you and your anxious, convoluted inner worlds. please close your ears now, just for a moment.
+
+all good? ears closed? okay. great.
+
+to the rest of you...
+
+welcome to blitz magic!
+yup, you heard me right. that terrible idea which clearly breaks under magic's priority system? we're doin it.
+
+what - timed games. 5 minutes each, no increments. grab your chess clocks.
+where - March of the Machines cube draft - arguably one of the deepest, most interactive limited environments of all time.
+why - for vibes. just let your cards do the thinking. magic looks so different from up here.
+how - one simple, innocuous rules tweak!
+> only the active player gets priority
+
+here's how it works
+Draft that cube as usual.
+Before each match round, confirm that every match has a chess clock (app) ready.
+Make sure that everyone knows how to use their chess clock.
+Shuffle up, choose a starting player & resolve mulligans.
+On the starting player's signal, their opponent starts the clock for them, and the game begins.
+Smack that clock after attacking, blocking, or ending your turn.
+If your time runs out, you lose the game!
+🌈TMYK - a chess clock is basically two timers and two buttons - one for each player. it sets a starting time (5:00) for each player, as well as an increment (0:00 - we don't use this). as you take your turn, your timer counts down. when you're done, tap your button to stop your timer, and your opponent's timer starts. after your opponent does the same, your timer resumes countdown where it left off. think MTGO match timers, but in paper!
+
+okay, look. this might seem like a dramatic bastardization of magic's golden essence, but some of us just wanna fly, okay? a turn of bare-bones, draw-go magic takes at least 16 priority passes, and you will literally break your phone before finishing a game. magic deserves a visceral, kinesthetic counterpart and what we lose in strategic complexity, we make up for in ✨speed✨.
+
+conveniently, now that "priority" is more or less obsolete, we can fill this void in our vocabulary with clock instead! you have clock when your timer is actively counting down. you can also receive clock, pass clock, gain clock, hold clock - it's quite nice! none of this affects priority, but boy is it fun to say🌸
+
+ground rules
+to tame the ultimately frantic late-game blitz, let's set some expectations before we start. these rules have catchy names so that you can scream them in the throes of battle.
+
+our game, our job - you are both responsible for pointing out any changes needed to reflect a clear and accurate game-state on either side of the board.
+my stuff, my job - you are responsible for moving your physical stuff on the table. that includes moving cards and counters, tapping lands, updating your life total, etc.
+my clock, my pace - don't wait for your opponent while you're on the clock. as long as you've communicated any changes needed to their stuff, proceed as though it has been fixed.
+clean as you go - don't wait to tidy up! update your stuff as your opponent plays. when gameplay speeds up, a clear and accurate board-state is key. it saves you time when clock is passed to you!
+talk it out - announce all your actions & triggers clearly, just like in "real magic". passing priority is the exception. heck priority! 🏴‍☠️
+skip blocks - if you're not attacking, hold clock straight through your combat step. blocks are skipped.
+RUA (/ruːˈæ/) - always complete these steps before passing clock, as well as before taking your first game action after gaining clock (ie. untapping or blocking).
+resolve all spells and abilities you control on the stack
+update your game objects accordingly
+announce any updates needed to your opponent's game objects
+hands off - only pass clock once you've stopped touching the game (other than your hand)
+explain it to me like im goldman sachs
+117.3¿ If a non-active player would receive priority, they pass priority.
+
+you become the active player as your turn begins.
+
+the active player passes clock once after moving to the "declare blockers" step, and once after ending the turn.
+
+you skip the "declare blockers" step if no creature attacks or is put onto the battlefield attacking
+in other words, if a player isn't attacking, they retain clock throughout their combat step
+ending the turn includes discarding to hand-size
+the defending player passes clock after declaring blockers and adding any resulting triggered abilities they control to the stack.
+
+before passing clock, as well as before taking any action while holding clock, a player must first:
+
+finish resolving all spells and abilities they control,
+ensure that they have accurately represented the current game-state on their side of the battlefield (eg. moving cards between zones, updating their life total, updating counters & tokens, clearly tapped and untapped permanents, etc), and
+have hands off all game pieces other than their hand
+non-active players can and are encouraged to help update game-state
+
+how it really works
+duct-taping priority to the active player lets you cut through steps and phases like butter. imagine the fluidity of choosing how to pay for a spell in classic magic, but smeared across multiple phases here.
+
+as the active player, you get to rapid-fire spells and abilities without fear of response, dropping cards onto the stack in bulk and resolving effects as fast as you like. as the non-active player, you get to sit back in empty awe, moving your pawns to the graveyard on command.
+
+asynchronous action keeps play smooth. i know this can feel weird, but the order in which you and your opponent resolve effects and update the table only matters if it would impact the game state at two very specific snapshots in the turn - when blocks would be declared, and when you would untap for turn.
+
+hands get clumsy, lands get half-tapped, triggers get missed. everyone makes mistakes, you just gotta fix em as they come up.
+
+card choices
+while you can totally sling blitz with MOM boosters, there are a couple mechanics that heck our fun premise, so! i've taken the liberty of weeding the card pool of a few.
+
+game-breaking cuts
+cards that shuffle libraries (Skittering Surveyor, Invasion of New Phyrexia) - shuffling wastes time, but randomness is essential to magic. idk who should pay time for this, so no one does.
+cards that demand a choice of the non-active player outside of blocking (Nezumi Informant, Invasion of Azgol) - these choices can stall play if the result impacts future plays - which is bad.
+creatures that require a choice when they die (Flitting Guerrilla, Oracle of Tragedy) - same as above, since creatures can die on either player's clock.
+convenience cuts
+you can include these, but old habits die hard, and your players will probably blunder into illegal plays. it's super awkward to "rewind" game state in blitz, so in my cube, they're out.
+
+all instants and flash cards
+risky includes
+cards that incubate - i suspect it's easier to remember to transform incubate tokens on your turn than to ignore the "instant"
